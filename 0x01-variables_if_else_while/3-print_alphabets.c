@@ -21,6 +21,7 @@ int main(void)
 	while (ch <= 'Z')
 	{
 		printf("%c", ch);
+		ch++
 	}
 	putchar('\n');
 	return (0);
