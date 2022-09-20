@@ -11,7 +11,7 @@
 int main(void)
 {
 	int i;
-	char 1; 
+	char _1;
 
 	i = 48;
 	while (i < 58)
@@ -19,11 +19,11 @@ int main(void)
 		putchar(i);
 		i++;
 	}
-	1 = 'a';
-	while (1 <= 'f')
+	_1 = 'a';
+	while (_1 <= 'f')
 	{
-		putchar(1);
-		1++;
+		putchar(_1);
+		_1++;
 	}
 	putchar('\n');
 
