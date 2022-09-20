@@ -15,8 +15,7 @@ int main(void)
 		printf("%c", ch);
 		ch++;
 	}
-
-	char dj = 'A';
+	char ch = 'A';
 
 	while (dj <= 'Z')
 	{
