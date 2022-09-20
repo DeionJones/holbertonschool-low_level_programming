@@ -19,7 +19,7 @@ int main(void)
 
 	while (ch <= 'Z')
 	{
-		printf("%c", dj);
+		printf("%c", ch);
 		ch++;
 	}
 	putchar('\n');
