@@ -4,7 +4,7 @@
  * _isalpha - checks for alphabetic characters
  * @c: character to check
  *
- * Return: 0 for 1
+ * Return: 1 for 0
  */
 
 
