@@ -7,4 +7,6 @@ int main(void);
 /**
  * protptype file for last project
  *
+ *
  */
+int _putchar(char c);
