@@ -9,6 +9,6 @@ int main(void);
  *
  *
  */
-int _putchar(char c);
+int _putchar'/n'(char c);
 
 #endif
