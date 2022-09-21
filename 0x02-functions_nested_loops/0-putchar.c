@@ -17,7 +17,7 @@ int main(void)
 	while (i <= 8)
 	{
 		c = s[i];
-		_putchar(c);
+		putchar(c);
 		i++;
 	}
 	return (0);
