@@ -9,6 +9,6 @@ int main(void);
  *
  *
  */
-int putchar(char c);
+int _putchar(char c);
 
 #endif
